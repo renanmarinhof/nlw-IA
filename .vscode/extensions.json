@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "clinyong.vscode-css-modules",
+    "dracula-theme.theme-dracula",
+    "dbaeumer.vscode-eslint",
+    "ecmel.vscode-html-css",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme",
+    "yoavbls.pretty-ts-errors",
+    "msjsdiag.vscode-react-native",
+    "humao.rest-client"
+  ]
+}
